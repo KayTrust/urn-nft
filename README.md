@@ -1,6 +1,6 @@
 # Unique URIs for Non-Fungible Tokens (NFTs)
 
-This repository describes a method to describe NFTs through unique URIs.
+This repository describes a method to describe NFTs through unique URIs, based on [RFC 8141: Uniform Resource Names (URNs)](https://datatracker.ietf.org/doc/html/rfc8141).
 
 It is structured in the following way:
 - [urn-nft.md](urn-nft.md) defines the main `urn:nft` syntax
