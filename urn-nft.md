@@ -14,3 +14,11 @@ The proposed namespace is `urn:nft`. The syntax is the following:
 The `<nft_method>` component is the unique identifier for an NFT algorithm. A registry shall be maintained to define well-known NFT methods.
 
 Each NFT method shall be defined within its own specification, and must detail how the `<method_specific_identifier>` is used to point to a specific NFT created using that method.
+
+## Known methods
+
+This section lists known NFT methods. It could be maintained as a separate document in the future, if needed.
+
+| NFT Method | Description | Specification
+|------------|-------------|--------------
+| `erc721`   | ERC-721 NFTs (based on Ethereum) | [`urn:nfc:erc721` specification](urn-nft-erc721.md)
