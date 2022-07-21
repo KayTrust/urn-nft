@@ -10,4 +10,4 @@ It is structured in the following way:
 
 ## Known NFT methods
 
-See the [urn:nft] specification for a registry of known methods. You can request to list a method by submitting a pull request.
+See the [`urn:nft` specification](urn-nft.md) for a registry of known methods. You can request to list a method by submitting a pull request.
