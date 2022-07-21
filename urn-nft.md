@@ -15,7 +15,11 @@ The `<nft_method>` component is the unique identifier for an NFT algorithm. A re
 
 Each NFT method shall be defined within its own specification, and must detail how the `<method_specific_identifier>` is used to point to a specific NFT created using that method.
 
-## Known methods
+## IANA considerations
+
+This URN namespace is experimental and hasn't yet gone through the steps of IANA registration.
+
+## Appendix A: Known methods
 
 This section lists known NFT methods. It could be maintained as a separate document in the future, if needed.
 
