@@ -10,7 +10,7 @@ TODO: Briefly recap how ERC721 works: what Ethereum is, how smart contracts are 
 
 # Schema
 
-The URN format for ERC721 NFTs is the following:
+The URN format for ERC721 NFTs extends the [`urn:nft` namespace](urn-nft.md). The specific format is the following:
 
 `urn:nft:erc721:<chain_id>:<contract_address>:<token_id>`
 
