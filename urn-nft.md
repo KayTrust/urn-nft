@@ -11,7 +11,7 @@ The unique identifier of a non-fungible token, known as Token ID, is only unique
 The proposed namespace is `urn:nft`. The syntax is the following:
  `urn:nft:<nft_method>:<method_specific_identifier>`
 
-The `<nft_method>` component is the unique identifier for an NFT algorithm. A registry shall be maintained to define well-known NFT methods.
+The `<nft_method>` component is the unique identifier for an NFT algorithm. Appendix A contains a registry with known NFT methods.
 
 Each NFT method shall be defined within its own specification, and must detail how the `<method_specific_identifier>` is used to point to a specific NFT created using that method.
 
