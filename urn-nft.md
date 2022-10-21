@@ -21,8 +21,10 @@ This URN namespace is experimental and hasn't yet gone through the steps of IANA
 
 ## Appendix A: Known methods
 
-This section lists known NFT methods. It could be maintained as a separate document in the future, if needed.
+This section lists known NFT methods, although it could be maintained as a separate document in the future.
 
 | NFT Method | Description | Specification
 |------------|-------------|--------------
 | `erc721`   | ERC-721 NFTs (based on Ethereum) | [`urn:nfc:erc721` specification](urn-nft-erc721.md)
+
+ **Please [file an issue](https://github.com/KayTrust/urn-nft/issues) if you would like to reference another `urn:nft:<method>`.**
